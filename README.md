@@ -28,4 +28,4 @@ Version Control: Git & GitHub
 1. Clone the repository to your local machine.
 2. Ensure Node.js is installed.
 3. Run the following command in your terminal: node script.js
-4. FOR QUICK AND EASY ACCESS, ONCE NODE IS INSTALLED. TYPE "node " and drag the folder itself into the terminal, then press ENTER.
+4. FOR QUICK AND EASY ACCESS, ONCE NODE IS INSTALLED. TYPE "node " and after file is cloned, drag the folder itself into the terminal then press ENTER.
