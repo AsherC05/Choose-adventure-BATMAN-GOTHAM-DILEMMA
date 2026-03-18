@@ -66,7 +66,7 @@ const storyNodes = {
         nextId: "communication_hub",
       },
       {
-        text: "Check RESERVOIR INTAKE for remote signal source",
+        text: "Check RESERVOIR INTAKE and trace remote signal source",
         nextId: "riddlers_lair",
       },
     ],
@@ -101,7 +101,7 @@ const storyNodes = {
   },
   clock_tower: {
     id: "clock_tower",
-    text: "You found out that TIME wasnt just the code, it pointed to the clock tower. You enter the clock tower finding the Riddlers watcher\'s nest and spot him fleeing in helicopter... your detective genius has shocked him. ALMOST leaving the building, evidence of his next plan is revealed leaving you one step ahead. On his desk... communications with Scarecrow is revealed, indicating Riddler was not alone in this... the same riddle from the start is on the desk but unfinished: 'What has a mouth but never speaks, has a bed but never sleeps. What am I?'",
+    text: "You figured the clue lead to this, it pointed to the clock tower. You enter the clock tower finding the Riddlers watcher\'s nest and spot him fleeing in helicopter... your detective genius has shocked him. ALMOST leaving the building, evidence of his next plan is revealed leaving you one step ahead. On his desk... communications with Scarecrow is revealed, indicating Riddler was not alone in this... the same riddle from the start is on the desk but unfinished: 'What has a mouth but never speaks, has a bed but never sleeps. What am I?'",
     choices: [
       {
         text: "An ORPHAN, Scarecrow is at the Orphanage!",
